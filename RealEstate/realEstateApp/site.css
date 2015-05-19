@@ -1,0 +1,26 @@
+﻿.TextDisplay{
+    /*background-color:#eaeaea;*/
+    border-radius:10px;
+    border-color:#333;
+    margin:5px;
+    padding:5px;
+}
+input.ng-invalid {
+  border: 1px solid red;
+}
+input.ng-valid {
+  border: 1px solid green;
+}
+label {
+    display: inline-block;
+    width:100px;
+    text-align: right;
+}
+.messages {
+  font-size: small;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 10px;
+  color: red;
+}
+
